@@ -1,11 +1,12 @@
 @media screen and (max-width: 1028px) {	
 header {
-	width: 100%;
+	height: auto;
+	width: auto;
 	background: url("../img/12.jpg") no-repeat center top / cover fixed;
 	opacity: 0.85;
 }
 	.container {
-	width: 80%;
+	width: 80%
 	height: 100%;
 }
 	.about {
@@ -96,7 +97,7 @@ padding-right: 10%;
 }
 #footer {
 	
-	height: 20vh;
+	height: 35vh;
 } 
 .line {
 	margin-top: 20px;
