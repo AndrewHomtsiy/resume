@@ -2,7 +2,7 @@
 header {
 	height: auto;
 	width: auto;
-	background: url("../img/12.jpg") no-repeat center top / cover fixed;
+	background: url("../img/12.jpg") no-repeat center top / cover;
 	opacity: 0.85;
 }
 	.container {
