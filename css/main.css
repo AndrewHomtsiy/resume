@@ -152,9 +152,11 @@ span{
 	justify-content: space-around;
 	align-items: center;
 }
+#makets {
+	background: #f7f7f7;
+}
 #works {
 	display: flex;
-	background: #
 }
 .cardcontainer {
 	max-width: 1280px;
@@ -164,6 +166,7 @@ span{
 .cards {
 	margin-top: 15px;
 	box-sizing: border-box;
+	margin-bottom: 70px;
 }
 .card {
 	position: relative;
