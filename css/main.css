@@ -133,6 +133,9 @@ border-bottom: 2px solid white;
 	font-size: 14px;
 	line-height: 2.1em;
 }
+.photo{
+	width: 98%;
+}
 
 hr {
 	margin-left: 450px;
