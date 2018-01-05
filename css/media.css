@@ -33,6 +33,9 @@ border-bottom: none;
 #info {
 	height: 100%;
 	}
+.photo{
+	width: 95%;
+}	
 .logo h1 {
 	font-size: 48px;
 }

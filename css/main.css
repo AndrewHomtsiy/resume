@@ -106,7 +106,7 @@ border-bottom: 2px solid white;
 	align-content:center;
 }
 .personal {
-	padding-top: 10%;
+	padding-top: 7%;
 	width: 23%;
 	height: auto;
 	padding-bottom: 7%;
@@ -120,7 +120,7 @@ border-bottom: 2px solid white;
 	margin-bottom: 15%;
 }
 .personal h3 {
-	margin-top: 45px;
+	margin-top: 35px;
 	text-align: center;
 	font-size: 16px;
 	font-weight: bold;
@@ -132,6 +132,7 @@ border-bottom: 2px solid white;
 	color: #777777;
 	font-size: 14px;
 	line-height: 2.1em;
+	width: 98%;
 }
 .photo{
 	width: 98%;
@@ -161,6 +162,7 @@ span{
 #works {
 	display: flex;
 }
+
 .cardcontainer {
 	max-width: 1280px;
 	margin:0 auto;
