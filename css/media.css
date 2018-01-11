@@ -1,7 +1,7 @@
 @media screen and (max-width: 1028px) {	
 header {
-	height: auto;
-	width: auto;
+	height: 100%;
+	width: 100%;
 	background: url("../img/12.jpg") no-repeat center top / cover;
 	opacity: 0.85;
 }
