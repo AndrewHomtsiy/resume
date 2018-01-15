@@ -4,6 +4,7 @@ header {
 	width: 100%;
 	background: url("../img/12.jpg") no-repeat center top / cover;
 	opacity: 0.85;
+
 }
 	.about {
 	display: flex;
@@ -93,9 +94,13 @@ border-bottom: none;
 }
 #footer {
 	
-	height: 35vh;
+	height:15%;
 } 
+.contant {
+	margin-top: 20px;
+	}
 .line {
 	margin-top: 20px;
+	margin-bottom: 20px;
 }
 }
